@@ -15,7 +15,3 @@
   
   words.join (' ')
  end
-
-
-puts translate('the quake')
-
