@@ -36,7 +36,3 @@ class Timer
   end
 
 end
-
-@timer = Timer.new
-@timer.seconds = 4000
-puts @timer.time_string
